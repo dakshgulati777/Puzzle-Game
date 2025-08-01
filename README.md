@@ -1,6 +1,6 @@
 # Puzzle Game (Adobe Animate / Flash)
 
-This is a simple drag-and-drop puzzle game built using **Adobe Animate (Flash)**. The game is compiled as an `.swf` file and features a **"Reset" button** to restart the puzzle at any time.
+This is a simple drag-and-drop puzzle game built using **Adobe Animate (Flash)**. The game is compiled as an `.swf` file 
 
 ![Reset Button](reset%20btn.png)
 
